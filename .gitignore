@@ -1,0 +1,12 @@
+**/config/local.yaml
+**/config/*.local.yaml
+
+*/debug/
+*/target/
+
+*/Cargo.lock
+
+**/*.rs.bk
+
+*.pdb
+*.DS_Store
